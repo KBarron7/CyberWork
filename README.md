@@ -3,6 +3,8 @@ Project #1 (Elk Stack Project)
 
 The Files in this repository were used to configure the network depicted below.
 
+https://github.com/KBarron7/CyberWork/blob/36a4cc0da65cf9b4c962d97de3090724a9594903/Red%20Team%20Diagram.png
+
 These files have been tested and used to generate a live ELK deployment on Azure. They can be used to recreate the entire deployment pictured above. Alternatively, select portions of the playbook file may be used to install only certain pieces of it, such as Filebeat.
 
 This ELK Stack allows the automatation of monitoring multiple virtual machine performances in one database. Using the ELK Server in conjunction with containers, has multiple benefits which are as followed:
